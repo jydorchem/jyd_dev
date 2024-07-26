@@ -7,3 +7,4 @@ Here's what each part means:
 $(parse_git_branch): Calls the parse_git_branch function to get the current Git branch name.
 \[\033[00m\]: Resets the text color to default.
 \$: Displays the prompt character ($ for a regular user, # for root).
+Eng1 worked here
