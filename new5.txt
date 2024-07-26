@@ -1,1 +1,9 @@
 This is Jydor
+Modified file
+Here's what each part means:
+
+\u@\h \W: Displays the username, hostname, and current working directory.
+\[\033[32m\]: Sets the text color to green.
+$(parse_git_branch): Calls the parse_git_branch function to get the current Git branch name.
+\[\033[00m\]: Resets the text color to default.
+\$: Displays the prompt character ($ for a regular user, # for root).
