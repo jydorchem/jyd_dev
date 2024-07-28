@@ -14,3 +14,5 @@ My feat here
 \$: Displays the prompt character ($ for a regular user, # for root).Modify this line
 Another test
 more
+
+check this
