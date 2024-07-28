@@ -9,5 +9,6 @@ $(parse_git_branch): Calls the parse_git_branch function to get the current Git 
 \$: Displays the prompt character ($ for a regular user, # for root).
 Eng1 worked here
 Eng2 worked here
+My feat here
 \$: Displays the prompt character ($ for a regular user, # for root).
 \$: Displays the prompt character ($ for a regular user, # for root).
