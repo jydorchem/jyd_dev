@@ -8,3 +8,4 @@ $(parse_git_branch): Calls the parse_git_branch function to get the current Git 
 \[\033[00m\]: Resets the text color to default.
 \$: Displays the prompt character ($ for a regular user, # for root).
 Eng1 worked here
+Eng2 worked here
